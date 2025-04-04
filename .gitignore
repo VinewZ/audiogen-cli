@@ -1,0 +1,6 @@
+bin/
+sqlc/
+*.db
+*.wav
+# Added by goreleaser init:
+dist/
